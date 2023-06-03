@@ -13,7 +13,7 @@ function App() {
       description: 'Phall is basically a thick, tomato based curry made with Habanero or Scotch Bonnet peppers',
       sweetName: 'Phall Curry',
       price: '$50',
-      image: 'http://127.0.0.1:5500/Tools%20and%20Automation/Responsive/assets/img/pexels-naim-benjelloun-1618955.jpg'
+      image: 'https://th.bing.com/th/id/R.8ac394618bb28c1ffbac80dc099826ac?rik=1TRUn2nXC6ztvg&riu=http%3a%2f%2fimages.unsplash.com%2fphoto-1541783245831-57d6fb0926d3%3fcrop%3dentropy%26cs%3dtinysrgb%26fit%3dmax%26fm%3djpg%26ixid%3dMnwxMjA3fDB8MXxzZWFyY2h8NHx8Y2hvY29sYXR8fDB8fHx8MTYyOTE5Njc1MQ%26ixlib%3drb-1.2.1%26q%3d80%26w%3d1080&ehk=7uZNJ39aeBNmR%2bh6BCU31S2Wrrf6M54KkbCvBCzAOhU%3d&risl=&pid=ImgRaw&r=0'
     },
     {
       id: 1002,
