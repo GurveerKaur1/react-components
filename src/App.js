@@ -56,7 +56,7 @@ function App() {
         images={images}
       />
       <Footer
-        text='All Rights Reserved. &copy;2023 FoodShop' />
+        text=' &copy;Food Shop'/>
     </>
 
   )
