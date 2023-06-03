@@ -5,7 +5,6 @@ function Gallery(props) {
                 <h2>{props.menu}</h2>
             </div>
             <div className="container rows">
-                <h2>{props.sweets}</h2>
                 <div className="row">
                     {props.images.map(image => (
                         <div class="column one" key={image.id}>

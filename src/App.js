@@ -53,7 +53,6 @@ function App() {
 
       <Gallery
         menu='Menu of Food Shop'
-        sweets='Spicy'
         images={images}
       />
       <Footer
