@@ -2,5 +2,5 @@
 ### click here
 
 
-Click [here](https://gitname.github.io/react-gh-pages) to check.
+Click [here](https://gurveerkaur1.github.io/react-components/) to check.
 
